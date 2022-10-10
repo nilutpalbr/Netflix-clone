@@ -1,0 +1,30 @@
+.profile__screen{
+    max-width: 250px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(0,0,0,0.85);
+    border-radius: 10px;
+    display: grid;
+}
+.profile__screen> button{
+    padding: 10px 15px;
+  font-size: 1rem;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #e50914;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.edit{
+  color: white;
+}
+.name{
+  color: #fff;
+}
+.avatar{
+  height: 50px;
+  width: 50px;
+}
